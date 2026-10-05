@@ -31,7 +31,7 @@
   </div>
 
   <!-- MAIN SPREAD LAYER: 3 SIDE-BY-SIDE EQUAL COLUMNS (SKY BLUE BACKDROPS) -->
-  <div style="display: flex; gap: 10px; padding: 12px 15px !important; box-sizing: border-box; width: 100%; align-items: stretch; background-color: #FFFFFF;">
+  <div style="display: flex; gap: 10px; padding: 12px 15px !important; box-sizing: border-box; width: 100%; align-items: stretch; background-color: #FFD200;">
     
     <!-- ==================== COLUMN 1: WEB CORE PACKAGES ==================== -->
     <div style="flex: 1 1 33%; display: flex; flex-direction: column; gap: 8px; box-sizing: border-box;">
@@ -106,21 +106,21 @@
       
           <!-- SERVICE COST SUMMARY MATRIX TABLE -->
       <div style="width: 100% !important; box-sizing: border-box;">
-        <table style="width: 100% !important; border-collapse: collapse !important; background-color: #FFFFFF !important; font-size: 10px !important; border: 1.5px solid #23272A !important; font-family: 'Arial', sans-serif;">
+        <table style="width: 100% !important; border-collapse: collapse !important; background-color: #FFD200 !important; font-size: 10px !important; border: 1.5px solid #23272A !important; font-family: 'Arial', sans-serif;">
           <thead>
-            <tr style="background-color: #23272A; color: #FFFFFF;">
+            <tr style="background-color: #23272A; color: #D2F7FF;">
               <th style="padding: 4px 6px; text-align: left; font-weight: bold; border-right: 1px solid #23272A; text-transform: uppercase; font-size: 8.5px; letter-spacing: 0.2px;">Service Lines Summary Matrix</th>
               <th style="padding: 4px 6px; text-align: right; font-weight: bold; color: #FFD200; text-transform: uppercase; font-size: 8.5px; width: 33%; letter-spacing: 0.2px;">Price (KES)</th>
             </tr>
           </thead>
           <tbody>
-            <tr style="border-bottom: 1px solid #23272A; background-color: #FFFFFF;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #23272A;">Portfolio Website Development</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">20,000 – 35,000</td></tr>
-            <tr style="border-bottom: 1px solid #23272A; background-color: #F8FAFC;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #23272A;">Business / Company Website</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">30,000 – 45,000</td></tr>
+            <tr style="border-bottom: 1px solid #23272A; background-color: #FFFFFF;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #23272A;">Portfolio Website Development</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">20,000 - 35,000</td></tr>
+            <tr style="border-bottom: 1px solid #23272A; background-color: #F8FAFC;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #23272A;">Business / Company Website</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">30,000 - 45,000</td></tr>
             <tr style="border-bottom: 1px solid #23272A; background-color: #FFFFFF;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #23272A;">Custom Website Integration</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #1A488E;">Quotation</td></tr>
-            <tr style="border-bottom: 1px solid #23272A; background-color: #F8FAFC;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #23272A;">CV Design & Review Services</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">4,000 – 10,000</td></tr>
+            <tr style="border-bottom: 1px solid #23272A; background-color: #F8FAFC;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #23272A;">CV Design & Review Services</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">4,000 - 10,000</td></tr>
             <tr style="border-bottom: 1px solid #23272A; background-color: #FFFFFF;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #23272A;">Project & Experience Review</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">From 3,000</td></tr>
             <tr style="border-bottom: 1px solid #23272A; background-color: #F8FAFC;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #23272A;">Publication Asset Integration</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">From 3,000</td></tr>
-            <tr style="background-color: #FFFFFF;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #23272A;">Website Code Updates & Support</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">2,000 – 5,000</td></tr>
+            <tr style="background-color: #FFFFFF;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #23272A;">Website Code Updates & Support</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">2,000 - 5,000</td></tr>
           </tbody>
         </table>
       </div>
@@ -143,7 +143,7 @@
         </div>
 
         <!-- RE-CALIBRATED INTERACTIVE NATIVE QR CODE FRAME BOX -->
-        <div style="flex: 0 0 100px; border: 1.5px dashed #1A488E !important; border-radius: 6px !important; padding: 3px !important; text-align: center; background-color: #FFFFFF !important; display: flex; flex-direction: column; align-items: center; justify-content: center; box-sizing: border-box;">
+        <div style="flex: 0 0 100px; border: 1.5px dashed #1A488E !important; border-radius: 6px !important; padding: 3px !important; text-align: center; background-color: #D2F7FF !important; display: flex; flex-direction: column; align-items: center; justify-content: center; box-sizing: border-box;">
           <a href="QR code.png" target="_blank" style="text-decoration: none !important; display: block !important;">
             <img src="QR%20code.png" alt="Scan QR Code to Explore Master Website Portfolio" style="width: 55px !important; height: 55px !important; display: block !important; margin: 0 auto !important; border: none !important;" />
             <span style="display: block !important; margin-top: 2px !important; font-size: 6.5px !important; color: #1A488E !important; font-weight: bold; text-transform: uppercase; line-height: 1; letter-spacing: 0.1px;"> Scan Website</span>
@@ -158,7 +158,7 @@
   <!-- EXECUTIVE BRAND SLAT RE-LINKED FOOTER BAR -->
   <div style="background-color: #23272A !important; padding: 10px 15px !important; text-align: center !important; box-sizing: border-box !important; border-top: 3.5px solid #FFD200 !important; width: 100%;">
     <p style="color: #A0AEC0 !important; margin: 0 0 4px 0 !important; font-size: 11px !important; font-weight: 500; font-family: 'Arial', sans-serif; line-height: 1;">
-      📧 <a href="mailto:hednaogutuh@gmail.com" style="color: #FFD200 !important; text-decoration: none !important; font-weight: bold;">hednaogutuh@gmail.com</a> &nbsp;|&nbsp; 📞 <a href="tel:+254741937074" style="color: #FFD200 !important; text-decoration: none !important; font-weight: bold;">0741937074</a>
+      📧 <a href="mailto:hednaogutuh@gmail.com" style="color: #FFD200 !important; text-decoration: none !important; font-weight: bold;">hednaogutuh@gmail.com</a> &nbsp;|&nbsp; <a href="tel:+254741937074" style="color: #FFD200 !important; text-decoration: none !important; font-weight: bold;">0741937074</a>
     </p>
     <div style="display: flex !important; justify-content: center !important; gap: 20px !important; font-size: 10.5px !important; font-weight: bold !important; font-family: 'Arial', sans-serif !important; flex-wrap: wrap;">
       <a href="https://github.io" target="_blank" style="color: #FFFFFF !important; text-decoration: underline !important;">Scan for Website Portfolio</a>
