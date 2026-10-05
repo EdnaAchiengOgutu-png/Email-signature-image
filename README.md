@@ -120,7 +120,7 @@
             <tr style="border-bottom: 1px solid #23272A; background-color: #F8FAFC;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #23272A;">CV Design & Review Services</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">4,000 - 10,000</td></tr>
             <tr style="border-bottom: 1px solid #23272A; background-color: #FFD200;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #23272A;">Project & Experience Review</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">From 3,000</td></tr>
             <tr style="border-bottom: 1px solid #23272A; background-color: #F8FAFC;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #23272A;">Publication Asset Integration</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">From 3,000</td></tr>
-            <tr style="background-color: #FFFFFF;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #23272A;">Website Code Updates & Support</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">2,000 - 5,000</td></tr>
+            <tr style="background-color: #FFD200;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #23272A;">Website Code Updates & Support</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">2,000 - 5,000</td></tr>
           </tbody>
         </table>
       </div>
