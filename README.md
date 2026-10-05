@@ -25,7 +25,7 @@
   </div>
 
   <!-- INTRODUCTORY BRIEF ROW WITH PORTRAIT -->
-  <div style="padding: 8px 15px 4px 15px !important; background-color: #D2F7FF; border-bottom: 1px solid #CBD5E0; display: flex; align-items: center; gap: 12px; width: 100%; box-sizing: border-box;">
+  <div style="padding: 8px 15px 4px 15px !important; background-color: #FFD200; border-bottom: 1px solid #CBD5E0; display: flex; align-items: center; gap: 12px; width: 100%; box-sizing: border-box;">
     <img src="Edna Profile Picture.png" alt="Edna Ogutu Portrait" style="width: 42px !important; height: 42px !important; border-radius: 50% !important; border: 1.5px solid #23272A !important; object-fit: cover !important; flex-shrink: 0;" />
     <p style="font-size: 11px !important; line-height: 1.3 !important; color: #1A488E !important; font-weight: bold; margin: 0 !important; width: 100%;">I design and develop professional, responsive websites for individuals, professionals, consultants, small businesses, and organizations. I also help clients organize and present their CVs, experience, projects, publications, and professional achievements effectively online.</p>
   </div>
@@ -114,11 +114,11 @@
             </tr>
           </thead>
           <tbody>
-            <tr style="border-bottom: 1px solid #23272A; background-color: #FFFFFF;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #23272A;">Portfolio Website Development</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">20,000 - 35,000</td></tr>
+            <tr style="border-bottom: 1px solid #23272A; background-color: #FFD200;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #23272A;">Portfolio Website Development</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">20,000 - 35,000</td></tr>
             <tr style="border-bottom: 1px solid #23272A; background-color: #F8FAFC;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #23272A;">Business / Company Website</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">30,000 - 45,000</td></tr>
-            <tr style="border-bottom: 1px solid #23272A; background-color: #FFFFFF;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #23272A;">Custom Website Integration</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #1A488E;">Quotation</td></tr>
+            <tr style="border-bottom: 1px solid #23272A; background-color: #FFD200;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #23272A;">Custom Website Integration</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #1A488E;">Quotation</td></tr>
             <tr style="border-bottom: 1px solid #23272A; background-color: #F8FAFC;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #23272A;">CV Design & Review Services</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">4,000 - 10,000</td></tr>
-            <tr style="border-bottom: 1px solid #23272A; background-color: #FFFFFF;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #23272A;">Project & Experience Review</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">From 3,000</td></tr>
+            <tr style="border-bottom: 1px solid #23272A; background-color: #FFD200;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #23272A;">Project & Experience Review</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">From 3,000</td></tr>
             <tr style="border-bottom: 1px solid #23272A; background-color: #F8FAFC;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #23272A;">Publication Asset Integration</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">From 3,000</td></tr>
             <tr style="background-color: #FFFFFF;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #23272A;">Website Code Updates & Support</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">2,000 - 5,000</td></tr>
           </tbody>
