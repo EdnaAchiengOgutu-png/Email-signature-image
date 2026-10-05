@@ -163,7 +163,7 @@
     <div style="display: flex !important; justify-content: center !important; gap: 20px !important; font-size: 10.5px !important; font-weight: bold !important; font-family: 'Arial', sans-serif !important; flex-wrap: wrap;">
       <a href="https://github.io" target="_blank" style="color: #23272A !important; text-decoration: underline !important;">Scan for Website Portfolio</a>
       <span style="color: #4A5568 !important;">|</span>
-      <a href="https://linkedin.com" target="_blank" style="color:  #23272A !important; text-decoration: underline !important;"> Connect on LinkedIn</a>
+      <a href="https://linkedin.com" target="_blank" style="color:  #23272A !important; text-decoration: underline !important;"> Edna Ogutu | Consultant</a>
     </div>
   </div>
 
