@@ -16,11 +16,11 @@
 </style>
 
 <!-- MASTER SINGLE-SCREEN A5 LANDSCAPE FRAME LAYER -->
-<div style="width: 100% !important; max-width: 1120px !important; background-color: #FFFFFF !important; border: 2.5px solid #23272A !important; border-radius: 10px !important; box-shadow: 0 10px 30px rgba(0,0,0,0.15) !important; overflow: hidden !important; box-sizing: border-box !important; margin: 0 auto !important; display: flex; flex-direction: column; justify-content: space-between;">
+<div style="width: 100% !important; max-width: 1120px !important; background-color: #FFD200 !important; border: 2.5px solid #23272A !important; border-radius: 10px !important; box-shadow: 0 10px 30px rgba(0,0,0,0.15) !important; overflow: hidden !important; box-sizing: border-box !important; margin: 0 auto !important; display: flex; flex-direction: column; justify-content: space-between;">
   
   <!-- CROWN HEADER BANNER: DARK GRAY & GOLDEN YELLOW HIGHLIGHT RAILS -->
   <div style="background-color: #23272A !important; padding: 10px 15px !important; text-align: center !important; border-bottom: 3px solid #FFD200 !important; box-sizing: border-box !important; width: 100%;">
-    <h1 style="color: #FFFFFF !important; margin: 0 0 1px 0 !important; font-size: 19px !important; font-weight: 900 !important; letter-spacing: 0.5px !important; text-transform: uppercase !important; border: none !important; padding: 0 !important;">Edna Ogutu | Consultant</h1>
+    <h1 style="color: #FFD200 !important; margin: 0 0 1px 0 !important; font-size: 19px !important; font-weight: 900 !important; letter-spacing: 0.5px !important; text-transform: uppercase !important; border: none !important; padding: 0 !important;">Edna Ogutu | Consultant</h1>
     <p style="color: #FFD200 !important; margin: 0 !important; font-size: 11px !important; font-weight: 800 !important; letter-spacing: 0.5px !important; text-transform: uppercase !important;">Professional digital presence, designed and developed around you or your business.</p>
   </div>
 
@@ -31,7 +31,7 @@
   </div>
 
   <!-- MAIN SPREAD LAYER: 3 SIDE-BY-SIDE EQUAL COLUMNS TO UTILIZE ALL SPACE -->
-  <div style="display: flex; gap: 10px; padding: 12px 15px !important; box-sizing: border-box; width: 100%; align-items: stretch; background-color: #FFFFFF;">
+  <div style="display: flex; gap: 10px; padding: 12px 15px !important; box-sizing: border-box; width: 100%; align-items: stretch; background-color: #FFD200;">
     
     <!-- ==================== COLUMN 1: WEB CORE PACKAGES ==================== -->
     <div style="flex: 1 1 33%; display: flex; flex-direction: column; gap: 8px; box-sizing: border-box;">
@@ -57,8 +57,8 @@
       <!-- CARD 2: CUSTOM WEBSITE -->
       <div style="background-color: #F8FAFC !important; border: 1px solid #CBD5E0 !important; border-radius: 6px !important; padding: 6px 10px; box-shadow: 0 1px 3px rgba(0,0,0,0.01);">
         <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(26,72,142,0.12); padding-bottom: 2px; margin-bottom: 3px;">
-          <h4 style="margin: 0 !important; font-size: 11.5px !important; font-weight: 900 !important; color: #1A488E !important; text-transform: uppercase !important;">🛠️ Custom Website</h4>
-          <span style="background-color: #1A488E; color: #FFFFFF; font-weight: 900; font-size: 9px; padding: 1px 5px; border-radius: 3px;">Quotation</span>
+          <h4 style="margin: 0 !important; font-size: 11.5px !important; font-weight: 900 !important; color: #1A488E !important; text-transform: uppercase !important;"> Custom Website</h4>
+          <span style="background-color: #1A488E; color: #FFD200; font-weight: 900; font-size: 9px; padding: 1px 5px; border-radius: 3px;">Quotation</span>
         </div>
         <p style="font-size: 10px; color: #2D3748; line-height: 1.25; margin: 0;">For portals requiring advanced data apps, custom systems tracking links, or e-commerce requirements.</p>
       </div>
@@ -106,19 +106,19 @@
       
       <!-- SERVICE COST SUMMARY MATRIX TABLE -->
       <div style="width: 100% !important; box-sizing: border-box;">
-        <table style="width: 100% !important; border-collapse: collapse !important; background-color: #FFFFFF !important; font-size: 10px !important; border: 1px solid #CBD5E0 !important; font-family: 'Arial', sans-serif;">
+        <table style="width: 100% !important; border-collapse: collapse !important; background-color: #FFD200 !important; font-size: 10px !important; border: 1px solid #CBD5E0 !important; font-family: 'Arial', sans-serif;">
           <thead>
-            <tr style="background-color: #23272A; color: #FFFFFF;">
+            <tr style="background-color: #23272A; color: #FFD200;">
               <th style="padding: 4px 6px; text-align: left; font-weight: bold; border-right: 1px solid #CBD5E0; text-transform: uppercase; font-size: 8.5px; letter-spacing: 0.2px;">Service Lines Summary Matrix</th>
               <th style="padding: 4px 6px; text-align: right; font-weight: bold; color: #FFD200; text-transform: uppercase; font-size: 8.5px; width: 33%; letter-spacing: 0.2px;">Price (KES)</th>
             </tr>
           </thead>
           <tbody>
-            <tr style="border-bottom: 1px solid #E2E8F0; background-color: #FFFFFF;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #CBD5E0;">Portfolio Website Development</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">20,000 – 35,000</td></tr>
+            <tr style="border-bottom: 1px solid #E2E8F0; background-color: #FFD200;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #CBD5E0;">Portfolio Website Development</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">20,000 – 35,000</td></tr>
             <tr style="border-bottom: 1px solid #E2E8F0; background-color: #F8FAFC;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #CBD5E0;">Business / Company Website</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">30,000 – 45,000</td></tr>
-            <tr style="border-bottom: 1px solid #E2E8F0; background-color: #FFFFFF;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #CBD5E0;">Custom Website Integration</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #1A488E;">Quotation</td></tr>
+            <tr style="border-bottom: 1px solid #E2E8F0; background-color: #FFD200;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #CBD5E0;">Custom Website Integration</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #1A488E;">Quotation</td></tr>
             <tr style="border-bottom: 1px solid #E2E8F0; background-color: #F8FAFC;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #CBD5E0;">CV Design & Review Services</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">4,000 – 10,000</td></tr>
-            <tr style="border-bottom: 1px solid #E2E8F0; background-color: #FFFFFF;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #CBD5E0;">Project & Experience Review</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">From 3,000</td></tr>
+            <tr style="border-bottom: 1px solid #E2E8F0; background-color: #FFD200;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #CBD5E0;">Project & Experience Review</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">From 3,000</td></tr>
             <tr style="border-bottom: 1px solid #E2E8F0; background-color: #F8FAFC;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #CBD5E0;">Publication Asset Integration</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">From 3,000</td></tr>
             <tr style="background-color: #FFFFFF;"><td style="padding: 4px 6px; font-weight: bold; color: #1A488E; border-right: 1px solid #CBD5E0;">Website Code Updates & Support</td><td style="padding: 4px 6px; text-align: right; font-weight: bold; color: #23272A;">2,000 – 5,000</td></tr>
           </tbody>
@@ -135,7 +135,7 @@
       <div style="display: flex; gap: 8px; align-items: stretch; justify-content: space-between; width: 100%; box-sizing: border-box; flex-wrap: wrap;">
         
         <!-- WHY WORK WITH ME CRITERIA BLURB CHIP -->
-        <div style="flex: 1 1 170px; background-color: #FFFFFF; border: 1px solid #CBD5E0; border-radius: 6px; padding: 4px 6px; font-size: 9px; line-height: 1.2; color: #4A5568; box-sizing: border-box;">
+        <div style="flex: 1 1 170px; background-color: #FFD200; border: 1px solid #CBD5E0; border-radius: 6px; padding: 4px 6px; font-size: 9px; line-height: 1.2; color: #4A5568; box-sizing: border-box;">
           <b style="color: #1A488E; text-transform: uppercase; font-size: 9px; display: block; margin-bottom: 1px;">Why Work With Me?</b>
           • <b>Personalized:</b> Designed around your brand identity.
           <br>• <b>Content-Driven:</b> Milestones organized for market impact.
@@ -161,7 +161,7 @@
        <a href="mailto:hednaogutuh@gmail.com" style="color: #FFD200 !important; text-decoration: none !important; font-weight: bold;">hednaogutuh@gmail.com</a> &nbsp;|&nbsp;  <a href="tel:+254741937074" style="color: #FFD200 !important; text-decoration: none !important; font-weight: bold;">0741937074</a>
     </p>
     <div style="display: flex !important; justify-content: center !important; gap: 20px !important; font-size: 10.5px !important; font-weight: bold !important; font-family: 'Arial', sans-serif !important; flex-wrap: wrap;">
-      <a href="https://github.io" target="_blank" style="color: #FFFFFF !important; text-decoration: underline !important;">🌐 Live Website Portfolio</a>
+      <a href="https://github.io" target="_blank" style="color: #FFD200 !important; text-decoration: underline !important;"></a>
       <span style="color: #4A5568 !important;">|</span>
 
     </div>
