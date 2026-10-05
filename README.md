@@ -158,12 +158,12 @@
   <!-- EXECUTIVE BRAND SLAT RE-LINKED FOOTER BAR -->
   <div style="background-color: #23272A !important; padding: 10px 15px !important; text-align: center !important; box-sizing: border-box !important; border-top: 3.5px solid #FFD200 !important; width: 100%;">
     <p style="color: #A0AEC0 !important; margin: 0 0 4px 0 !important; font-size: 11px !important; font-weight: 500; font-family: 'Arial', sans-serif; line-height: 1;">
-      📧 <a href="mailto:hednaogutuh@gmail.com" style="color: #FFD200 !important; text-decoration: none !important; font-weight: bold;">hednaogutuh@gmail.com</a> &nbsp;|&nbsp; <a href="tel:+254741937074" style="color: #FFD200 !important; text-decoration: none !important; font-weight: bold;">0741937074</a>
+       <a href="mailto:hednaogutuh@gmail.com" style="color: #FFD200 !important; text-decoration: none !important; font-weight: bold;">hednaogutuh@gmail.com</a> &nbsp;|&nbsp; <a href="tel:+254741937074" style="color: #FFD200 !important; text-decoration: none !important; font-weight: bold;">0741937074</a>
     </p>
     <div style="display: flex !important; justify-content: center !important; gap: 20px !important; font-size: 10.5px !important; font-weight: bold !important; font-family: 'Arial', sans-serif !important; flex-wrap: wrap;">
-      <a href="https://github.io" target="_blank" style="color: #FFFFFF !important; text-decoration: underline !important;">Scan for Website Portfolio</a>
+      <a href="https://github.io" target="_blank" style="color: #23272A !important; text-decoration: underline !important;">Scan for Website Portfolio</a>
       <span style="color: #4A5568 !important;">|</span>
-      <a href="https://linkedin.com" target="_blank" style="color: #FFFFFF !important; text-decoration: underline !important;"> Connect on LinkedIn</a>
+      <a href="https://linkedin.com" target="_blank" style="color:  #23272A !important; text-decoration: underline !important;"> Connect on LinkedIn</a>
     </div>
   </div>
 
