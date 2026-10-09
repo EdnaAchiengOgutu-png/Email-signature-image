@@ -28,7 +28,7 @@
       
       <!-- CORE SERVICES LISTING MATRIX -->
       <div style="font-size: 11px !important; color: #23272A !important; line-height: 1.4 !important; font-weight: bold !important; margin-bottom: 5px !important;">
-        <span style="color: #1A488E !important; display: block; margin-bottom: 2px; font-size: 11.5px !important; text-transform: uppercase !important; letter-spacing: 0.2px;">🛠️ Core Services Deployed:</span>
+        <span style="color: #1A488E !important; display: block; margin-bottom: 2px; font-size: 9px !important; text-transform: uppercase !important; letter-spacing: 0.2px;"> Core Services Deployed:</span>
         • <span style="color: #1A488E !important;">Data & Workforce Analytics:</span> Payroll solutions, HR dashboards, 350+ FTE tracking matrices.
         <br>• <span style="color: #1A488E !important;">Database Auditing & CRM QC:</span> Pipeline cleaning, balancing automated QueueMetrics logs.
         <br>• <span style="color: #1A488E !important;">Field Research & Web Layouts:</span> M&E operations setup, custom portfolio web deployment (Suppl.).
