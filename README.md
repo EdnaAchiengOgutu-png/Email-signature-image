@@ -18,7 +18,7 @@
   <!-- INTERMEDIATE COHESIVE RUNNING SKILLS RAIL BAR -->
   <div style="background-color: #23272A !important; padding: 0px 16px 8px 16px !important; border-bottom: 3px solid #FFD200 !important; box-sizing: border-box !important; width: 100% !important;">
     <p style="margin: 0 !important; font-family: 'Arial', sans-serif !important; font-size: 9.5px !important; line-height: 1.2 !important; color: #FFFFFF !important; font-weight: bold !important; letter-spacing: 0.1px !important; text-align: left !important; background-color: #23272A !important;">
-      Execution Skills: <span style="color: #FFD200 !important; font-weight: normal !important;">Data analytics &nbsp;|&nbsp; Statistics &nbsp;|&nbsp; Business intelligence &nbsp;|&nbsp; Data management &nbsp;|&nbsp; Research analytics &nbsp;|&nbsp; Workforce planning and analytics &nbsp;|&nbsp; Payroll Analytics &nbsp;|&nbsp; Web/Portfolio Development and design</span>
+       SKILLS: <span style="color: #FFD200 !important; font-weight: normal !important;">Data analytics &nbsp;|&nbsp; Statistics &nbsp;|&nbsp; Business intelligence &nbsp;|&nbsp; Data management &nbsp;|&nbsp; Research analytics &nbsp;|&nbsp; Workforce planning and analytics &nbsp;|&nbsp; Payroll Analytics &nbsp;|&nbsp; Web/Portfolio Development and design</span>
     </p>
   </div>
 
