@@ -5,7 +5,7 @@
     <!-- LEFT PACK: EDGE-TO-EDGE FULL-HEIGHT SKY BLUE BRAND BLOCK -->
     <td valign="middle" align="center" style="background-color: #D2F7FF !important; padding: 25px 22px !important; text-align: center !important; width: 105px !important; min-width: 105px !important; box-sizing: border-box;">
       <div style="width: 85px !important; height: 85px !important; display: inline-block !important; border-radius: 50% !important; overflow: hidden !important; border: 3px solid #23272A !important; box-shadow: 0 4px 10px rgba(0,0,0,0.1) !important;">
-        <img src="https://github.io" alt="Edna Ogutu Portrait" width="85" height="85" style="display: block !important; object-fit: cover !important; max-width: 100% !important; height: auto !important;" />
+        <img src="Edna Profile Picture.png" alt="Edna Ogutu Portrait" width="85" height="85" style="display: block !important; object-fit: cover !important; max-width: 100% !important; height: auto !important;" />
       </div>
     </td>
 
@@ -34,25 +34,25 @@
       <table cellpadding="0" cellspacing="0" border="0" style="font-size: 12.5px !important; color: #4A5568 !important; line-height: 1.45 !important; width: 100%; margin-top: 10px !important;">
         <tr>
           <td style="padding-bottom: 4px !important; font-weight: 500;">
-            <span style="font-size: 14px !important; margin-right: 6px !important; display: inline-block; vertical-align: middle;">📞</span> 
+            <span style="font-size: 14px !important; margin-right: 6px !important; display: inline-block; vertical-align: middle;"></span> 
             <strong style="color: #23272A;">Phone:</strong> <a href="tel:+254741937074" style="color: #1A488E !important; text-decoration: none !important; font-weight: bold !important;">+254 741 937074</a>
           </td>
         </tr>
         <tr>
           <td style="padding-bottom: 4px !important; font-weight: 500;">
-            <span style="font-size: 14px !important; margin-right: 6px !important; display: inline-block; vertical-align: middle;">📩</span> 
+            <span style="font-size: 14px !important; margin-right: 6px !important; display: inline-block; vertical-align: middle;"></span> 
             <strong style="color: #23272A;">Email:</strong> <a href="mailto:hednaogutuh@gmail.com" style="color: #1A488E !important; text-decoration: none !important; font-weight: bold !important;">hednaogutuh@gmail.com</a>
           </td>
         </tr>
         <tr>
           <td style="padding-bottom: 4px !important; font-weight: 500;">
-            <span style="font-size: 14px !important; margin-right: 6px !important; display: inline-block; vertical-align: middle;">🌐</span> 
+            <span style="font-size: 14px !important; margin-right: 6px !important; display: inline-block; vertical-align: middle;"></span> 
             <strong style="color: #23272A;">Website:</strong> <a href="https://github.io" target="_blank" style="color: #1A488E !important; text-decoration: underline !important; font-weight: bold !important;">Explore My Live Portfolio</a>
           </td>
         </tr>
         <tr>
           <td style="font-weight: 500;">
-            <span style="font-size: 14px !important; margin-right: 6px !important; display: inline-block; vertical-align: middle;">🔗</span> 
+            <span style="font-size: 14px !important; margin-right: 6px !important; display: inline-block; vertical-align: middle;"></span> 
             <strong style="color: #23272A;">LinkedIn:</strong> <a href="https://linkedin.com" target="_blank" style="color: #1A488E !important; text-decoration: underline !important; font-weight: bold !important;">Connect on Professional Network</a>
           </td>
         </tr>
