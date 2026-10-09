@@ -48,19 +48,19 @@
         <!-- ROW 2 -->
         <div style="display: flex !important; align-items: flex-start !important; margin-bottom: 3px !important; font-weight: normal !important;">
           <span style="margin-right: 5px !important; flex-shrink: 0 !important; font-weight: bold !important;">•</span>
-          <div><b style="color: #23272A !important; font-weight: bold !important;">Database Auditing & CRM QC:</b> HR & People analytics, cross-system integration, and data quality management merging employee registries, Odoo ERPs, CRMs, and QueueMetrics telephony logs.</div>
+          <div><b style="color: #23272A !important; font-weight: bold !important;">Database Auditing & CRM QC:</b> HR & People analytics, cross-system integration, and data quality management, Odoo ERPs, CRMs, and QueueMetrics telephony logs.</div>
         </div>
         
         <!-- ROW 3 -->
         <div style="display: flex !important; align-items: flex-start !important; margin-bottom: 3px !important; font-weight: normal !important;">
           <span style="margin-right: 5px !important; flex-shrink: 0 !important; font-weight: bold !important;">•</span>
-          <div><b style="color: #23272A !important; font-weight: bold !important;">Biostatistics & Field Research:</b> Quantitative sampling methodologies, research data validation, and MEAL analytics deploying mobile frameworks (KoboCollect, ODK, SurveyCTO).</div>
+          <div><b style="color: #23272A !important; font-weight: bold !important;">Biostatistics & Field Research:</b> Quantitative, Sampling methodologies, research data validation, and MEAL analytics deploying mobile frameworks (KoboCollect, ODK, SurveyCTO).</div>
         </div>
         
         <!-- ROW 4 -->
         <div style="display: flex !important; align-items: flex-start !important; font-weight: normal !important;">
           <span style="margin-right: 5px !important; flex-shrink: 0 !important; font-weight: bold !important;">•</span>
-          <div><b style="color: #23272A !important; font-weight: bold !important;">Portfolio Development & Design:</b> Engineering responsive, clean custom HTML/CSS web portfolio landing pages and digital business card frameworks (Suppl.).</div>
+          <div><b style="color: #23272A !important; font-weight: bold !important;">Portfolio Development & Design:</b> Designed responsive, clean custom HTML/CSS web portfolio landing pages and digital business card frameworks.</div>
         </div>
 
       </div>
