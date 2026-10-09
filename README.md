@@ -9,6 +9,10 @@
     <div style="font-size: 11px !important; font-weight: 800 !important; color: #D2F7FF !important; text-transform: uppercase !important; letter-spacing: 0.5px !important; margin: 0 !important;">
       Data Analyst & Workforce Analyst
     </div>
+     <div style="background-color: #23272A !important; padding: 10px 16px !important; border-bottom: 3.5px solid #FFD200 !important; box-sizing: border-box !important; width: 100% !important;">
+    <p style="margin: 0 !important; font-family: 'Arial', sans-serif !important; font-size: 10.5px !important; line-height: 1.3 !important; color: #FFFFFF !important; font-weight: bold !important; letter-spacing: 0.1px !important; text-align: left !important;">
+      Execution Skills: <span style="color: #FFD200 !important; font-weight: normal !important;">Data analytics &nbsp;|&nbsp; Statistics &nbsp;|&nbsp; Business intelligence &nbsp;|&nbsp; Data management &nbsp;|&nbsp; Research analytics &nbsp;|&nbsp; Workforce planning and analytics &nbsp;|&nbsp; Payroll Analytics &nbsp;|&nbsp; Web/Portfolio Development and design</span>
+    </p>
   </div>
 
   <!-- STAGE 2: MIDDLE DATA DISTRIBUTION LAYER (SIDE-BY-SIDE SIDEBAR & SERVICES) -->
