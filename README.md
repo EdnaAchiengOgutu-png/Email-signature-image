@@ -9,7 +9,7 @@
           Edna Ogutu
         </td>
         <td valign="bottom" align="right" style="font-size: 11px !important; font-weight: 800 !important; color: #D2F7FF !important; text-transform: uppercase !important; letter-spacing: 0.5px !important; font-family: 'Arial', sans-serif !important; background-color: #23272A !important;">
-          Data Analyst & Workforce Analyst
+          Data & Workforce Analyst
         </td>
       </tr>
     </table>
