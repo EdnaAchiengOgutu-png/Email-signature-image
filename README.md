@@ -1,16 +1,13 @@
-<!-- WEBSITE-IDENTICAL DATA & WORKFORCE ANALYST MASTER SIGNATURE -->
-<table cellpadding="0" cellspacing="0" border="0" style="font-family: 'Arial', sans-serif !important; font-size: 13px !important; color: #23272A !important; line-height: 1.4 !important; max-width: 560px !important; background-color: #FFFFFF !important; border: 2.5px solid #23272A !important; border-radius: 12px !important; box-shadow: 0 8px 24px rgba(35,39,42,0.08) !important; overflow: hidden !important;">
+<!-- BULLETPROOF INLINE-STYLED HTML EMAIL SIGNATURE DASHBOARD -->
+<table cellpadding="0" cellspacing="0" border="0" style="font-family: 'Arial', sans-serif !important; font-size: 13px !important; color: #23272A !important; line-height: 1.4 !important; max-width: 560px !important; background-color: #FFFFFF !important; border: 2.5px solid #23272A !important; border-radius: 12px !important; box-shadow: 0 8px 24px rgba(35,39,42,0.08) !important; overflow: hidden !important; width: 100%; box-sizing: border-box;">
   
-  <!-- CROWN HEADER BANNER: MATCHES WEBSITE TOP NAVIGATION NAVIGATION BAR STYLE -->
+  <!-- CROWN HEADER BANNER: MATCHES WEBSITE TOP NAVIGATION BAR STYLE -->
   <tr>
     <td colspan="2" style="background-color: #23272A !important; padding: 12px 20px !important; border-bottom: 4px solid #FFD200 !important; box-sizing: border-box !important; width: 100%;">
       <table cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
         <tr>
-          <td style="font-size: 18px !important; font-weight: 900 !important; color: #FFFFFF !important; text-transform: uppercase !important; letter-spacing: 0.5px !important; line-height: 1 !important;">
+          <td style="font-size: 18px !important; font-weight: 900 !important; color: #FFFFFF !important; text-transform: uppercase !important; letter-spacing: 0.5px !important; line-height: 1 !important; font-family: 'Arial', sans-serif !important;">
             Edna Ogutu
-          </td>
-          <td align="right" style="font-size: 11px !important; font-weight: 800 !important; color: #FFD200 !important; text-transform: uppercase !important; letter-spacing: 0.8px !important;">
-            Consultant Hub
           </td>
         </tr>
       </table>
@@ -19,9 +16,9 @@
 
   <tr>
     <!-- LEFT PANEL: REGULAR VERTICAL SKY BLUE BACKGROUND FRAME FROM PORTFOLIO LAYOUTS -->
-    <td valign="middle" align="center" style="background-color: #D2F7FF !important; padding: 20px !important; text-align: center !important; width: 110px !important; min-width: 110px !important; box-sizing: border-box; border-right: 1.5px solid rgba(35,39,42,0.1);">
+    <td valign="middle" align="center" style="background-color: #D2F7FF !important; padding: 20px !important; text-align: center !important; width: 125px !important; min-width: 125px !important; box-sizing: border-box; border-right: 1.5px solid rgba(35,39,42,0.1);">
       <div style="width: 85px !important; height: 85px !important; display: inline-block !important; border-radius: 8px !important; overflow: hidden !important; border: 2.5px solid #23272A !important; box-shadow: 0 4px 10px rgba(0,0,0,0.1) !important;">
-        <img src="Edna Profile Picture" alt="Edna Ogutu Portrait" width="85" height="85" style="display: block !important; object-fit: cover !important;" />
+        <img src="Edna Profile Picture.png" alt="Edna Ogutu" width="85" height="85" style="display: block !important; object-fit: cover !important;" />
       </div>
     </td>
 
@@ -31,12 +28,12 @@
       <!-- NICHES STACK: DATA & WORKFORCE POSITIONED AS METRIC LEADERS -->
       <table cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
         <tr>
-          <td style="font-size: 13.5px !important; font-weight: 900 !important; color: #1A488E !important; text-transform: uppercase !important; letter-spacing: 0.3px !important; padding-bottom: 2px !important; line-height: 1.2;">
+          <td style="font-size: 13.5px !important; font-weight: 900 !important; color: #1A488E !important; text-transform: uppercase !important; letter-spacing: 0.3px !important; padding-bottom: 2px !important; line-height: 1.2; font-family: 'Arial', sans-serif !important;">
              Statistician & Data Analyst
           </td>
         </tr>
         <tr>
-          <td style="font-size: 11px !important; font-weight: 700 !important; color: #4A5568 !important; text-transform: uppercase !important; letter-spacing: 0.5px !important; padding-bottom: 8px !important;">
+          <td style="font-size: 10px !important; font-weight: 700 !important; color: #4A5568 !important; text-transform: uppercase !important; letter-spacing: 0.5px !important; padding-bottom: 8px !important; font-family: 'Arial', sans-serif !important; line-height: 1.3;">
             Workforce Planning &nbsp;|&nbsp; Business Intelligence &nbsp;|&nbsp; Web Dev <span style="color:#718096; font-weight:400;">(Suppl.)</span>
           </td>
         </tr>
@@ -46,14 +43,14 @@
       </table>
 
       <!-- DETAILED STRATEGIC ACCESS LINKS LAYER -->
-      <table cellpadding="0" cellspacing="0" border="0" style="font-size: 12px !important; color: #2D3748 !important; line-height: 1.4 !important; width: 100%; margin-top: 8px !important;">
+      <table cellpadding="0" cellspacing="0" border="0" style="font-size: 12px !important; color: #2D3748 !important; line-height: 1.45 !important; width: 100%; margin-top: 8px !important; font-family: 'Arial', sans-serif !important;">
         <tr>
-          <td style="padding-bottom: 3px !important;">
+          <td style="padding-bottom: 4px !important;">
             <strong style="color: #23272A;">Phone / Chat:</strong> <a href="tel:+254741937074" style="color: #1A488E !important; text-decoration: none !important; font-weight: bold !important;">+254 741 937074</a> &nbsp;|&nbsp; <a href="mailto:hednaogutuh@gmail.com" style="color: #1A488E !important; text-decoration: none !important; font-weight: bold !important;">hednaogutuh@gmail.com</a>
           </td>
         </tr>
         <tr>
-          <td style="padding-bottom: 3px !important;">
+          <td style="padding-bottom: 4px !important;">
              <strong>Live Portfolio:</strong> <a href="https://github.io" target="_blank" style="color: #1A488E !important; text-decoration: underline !important; font-weight: bold !important;">Explore Infrastructure & Active Projects</a>
           </td>
         </tr>
