@@ -33,24 +33,36 @@
     <!-- RIGHT CORE CONTENT PACK: REPLACED VALUE CAPABILITIES LIST (WHITE RECTANGLE LAYER) -->
     <div style="background-color: #D2F7FF !important; padding: 8px 14px 6px 14px !important; flex: 1 !important; box-sizing: border-box !important; display: flex !important; flex-direction: column; justify-content: space-between !important;">
       
-               <!-- THE RE-ENGINEERED 4-PILLAR SERVICE DESCRIPTIONS LISTING (PERFECT BLOCK INDENT ALIGNMENT) -->
-      <div style="font-size: 10px !important; color: #23272A !important; line-height: 1.35 !important; font-weight: normal !important; margin-bottom: 4px !important; font-family: 'Arial', sans-serif !important; text-align: left !important;">
-        <span style="color: #23272A !important; display: block; margin-bottom: 4px; font-size: 10.5px !important; font-weight: 900 !important; text-transform: uppercase !important; letter-spacing: 0.2px;">Services Offered:</span>
-        <ul style="margin: 0 !important; padding: 0 0 0 2px !important; list-style-type: none !important;">
-          <li style="margin-bottom: 4px !important; text-indent: -8px !important; padding-left: 8px !important;">
-            &bull; <b style="color: #1A488E !important; font-weight: 900 !important;">Data & Workforce Analytics:</b> Advanced operational data analysis, payroll design/planning, schedule and staff productivity diagnostics, Reporting & Business Intelligence.
-          </td>
-          <li style="margin-bottom: 4px !important; text-indent: -8px !important; padding-left: 8px !important;">
-            &bull; <b style="color: #1A488E !important; font-weight: 900 !important;">Database Auditing & CRM QC:</b> HR & People analytics, cross-system integration, and data quality management, Odoo ERPs, CRMs, and QueueMetrics telephony logs.
-          </td>
-          <li style="margin-bottom: 4px !important; text-indent: -8px !important; padding-left: 8px !important;">
-            &bull; <b style="color: #1A488E !important; font-weight: 900 !important;">Biostatistics & Field Research:</b> Quantitative, Sampling methodologies, research data validation, and MEAL analytics deploying mobile frameworks.
-          </td>
-          <li style="margin-bottom: 4px !important; text-indent: -8px !important; padding-left: 8px !important;">
-            &bull; <b style="color: #1A488E !important; font-weight: 900 !important;">Portfolio Development & Design:</b> Designed responsive, clean custom HTML/CSS web portfolio landing pages and digital business card frameworks.
-          </td>
-        </ul>
+                     <!-- THE RE-ENGINEERED 4-PILLAR SERVICE DESCRIPTIONS LISTING -->
+      <div style="font-size: 10px !important; color: #23272A !important; line-height: 1.3 !important; font-weight: bold !important; margin-bottom: 4px !important; font-family: 'Arial', sans-serif !important; text-align: left !important;">
+        <span style="color: #23272A !important; display: block; margin-bottom: 2px; font-size: 10.5px !important; text-transform: uppercase !important; letter-spacing: 0.2px;">Services Offered:</span>
+        
+        <!-- ROW 1 -->
+        <div style="display: flex !important; align-items: flex-start !important; margin-bottom: 3px !important;">
+          <span style="margin-right: 5px !important; flex-shrink: 0 !important;">•</span>
+          <div><span style="color: #23272A !important;">Data & Workforce Analytics:</span> Advanced operational data analysis, payroll design/planning, schedule and staff productivity diagnostics, Reporting & Business Intelligence.</div>
+        </div>
+        
+        <!-- ROW 2 -->
+        <div style="display: flex !important; align-items: flex-start !important; margin-bottom: 3px !important;">
+          <span style="margin-right: 5px !important; flex-shrink: 0 !important;">•</span>
+          <div><span style="color: #23272A !important;">Database Auditing & CRM QC:</span> HR & People analytics, cross-system integration, and data quality management merging employee registries, Odoo ERPs, CRMs, and QueueMetrics telephony logs.</div>
+        </div>
+        
+        <!-- ROW 3 -->
+        <div style="display: flex !important; align-items: flex-start !important; margin-bottom: 3px !important;">
+          <span style="margin-right: 5px !important; flex-shrink: 0 !important;">•</span>
+          <div><span style="color: #23272A !important;">Biostatistics & Field Research:</span> Quantitative sampling methodologies, research data validation, and MEAL analytics deploying mobile frameworks (KoboCollect, ODK, SurveyCTO).</div>
+        </div>
+        
+        <!-- ROW 4 -->
+        <div style="display: flex !important; align-items: flex-start !important;">
+          <span style="margin-right: 5px !important; flex-shrink: 0 !important;">•</span>
+          <div><span style="color: #23272A !important;">Portfolio Development & Design:</span> Engineering responsive, clean custom HTML/CSS web portfolio landing pages and digital business card frameworks (Suppl.).</div>
+        </div>
+
       </div>
+
 
       <!-- TEXT-ONLY COMMUNICATION CONTACT SPEC STRIP -->
       <div style="border-top: 1px dashed #23272A !important; padding-top: 3px !important; font-size: 9.5px !important; font-weight: bold !important; color: #23272A !important; letter-spacing: 0.1px !important; font-family: 'Arial', sans-serif !important;">
