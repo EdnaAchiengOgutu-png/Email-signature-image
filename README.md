@@ -1,8 +1,8 @@
 <!-- WEBSITE-IDENTICAL WIDE THREE-STAGE STRUCTURAL EMAIL SIGNATURE BANNER -->
-<div style="font-family: 'Arial', sans-serif !important; width: 100% !important; max-width: 780px !important; background-color: #FFFFFF !important; border: 2.5px solid #23272A !important; border-radius: 10px !important; overflow: hidden !important; box-sizing: border-box !important;">
+<div style="font-family: 'Arial', sans-serif !important; width: 100% !important; max-width: 730px !important; background-color: #23272A !important; border: 2.5px solid #23272A !important; border-radius: 10px !important; overflow: hidden !important; box-sizing: border-box !important;">
   
   <!-- STAGE 1: FROZEN TOP BRAND ACCENT HEADER PANEL (DARK GRAY SLATE & GOLD RAIL) -->
-  <div style="background-color: #23272A !important; padding: 10px 16px !important; border-bottom: 3px solid #FFD200 !important; box-sizing: border-box !important; width: 100% !important;">
+  <div style="background-color: #23272A !important; padding: 5px 8px !important; border-bottom: 3px solid #FFD200 !important; box-sizing: border-box !important; width: 100% !important;">
     <table cellpadding="0" cellspacing="0" border="0" style="width: 100% !important;">
       <tr>
         <td valign="bottom" style="font-size: 19px !important; font-weight: 900 !important; color: #FFD200 !important; text-transform: uppercase !important; letter-spacing: 0.5px !important; line-height: 1 !important; font-family: 'Arial', sans-serif !important;">
