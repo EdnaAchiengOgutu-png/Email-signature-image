@@ -26,12 +26,13 @@
     <!-- RIGHT CORE CONTENT PACK: REPLACED VALUE CAPABILITIES LIST (WHITE RECTANGLE LAYER) -->
     <div style="background-color: #D2F7FF !important; padding: 12px 16px 10px 16px !important; flex: 1 !important; box-sizing: border-box !important; display: flex !important; flex-direction: column; justify-content: space-between !important;">
       
-      <!-- CORE SERVICES LISTING MATRIX -->
-      <div style="font-size: 11px !important; color: #23272A !important; line-height: 1.4 !important; font-weight: bold !important; margin-bottom: 5px !important;">
-        <span style="color: #1A488E !important; display: block; margin-bottom: 2px; font-size: 9px !important; text-transform: uppercase !important; letter-spacing: 0.2px;"> Core Services Deployed:</span>
-        • <span style="color: #1A488E !important;">Data & Workforce Analytics:</span> Payroll solutions, HR dashboards, 350+ FTE tracking matrices.
-        <br>• <span style="color: #1A488E !important;">Database Auditing & CRM QC:</span> Pipeline cleaning, balancing automated QueueMetrics logs.
-        <br>• <span style="color: #1A488E !important;">Field Research & Web Layouts:</span> M&E operations setup, custom portfolio web deployment (Suppl.).
+     <!-- THE RE-ENGINEERED 4-PILLAR SERVICE DESCRIPTIONS LISTING -->
+      <div style="font-size: 10.5px !important; color: #23272A !important; line-height: 1.4 !important; font-weight: bold !important; margin-bottom: 6px !important;">
+        <span style="color: #1A488E !important; display: block; margin-bottom: 3px; font-size: 11px !important; text-transform: uppercase !important; letter-spacing: 0.2px;">🛠️ Core Services Deployed:</span>
+        • <span style="color: #1A488E !important;">Data & Workforce Analytics:</span> Advanced operational data analysis, payroll design/planning, schedule and staff productivity diagnostics, Reporting & Business Intelligence.
+        <br>• <span style="color: #1A488E !important;">Database Auditing & CRM QC:</span> HR & People analytics, cross-system integration, and data quality management merging employee registries, Odoo ERPs, CRMs, and QueueMetrics telephony logs.
+        <br>• <span style="color: #1A488E !important;">Biostatistics & Field Research:</span> Quantitative sampling methodologies, research data validation, and MEAL analytics deploying mobile frameworks (KoboCollect, ODK, SurveyCTO).
+        <br>• <span style="color: #1A488E !important;">Portfolio Development & Design:</span> Engineering responsive, clean custom HTML/CSS web portfolio landing pages and digital business card frameworks (Suppl.).
       </div>
 
       <!-- TEXT-ONLY COMMUNICATION CONTACT SPEC STRIP -->
